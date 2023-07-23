@@ -9,7 +9,7 @@ export default function NavBar() {
                 <Flex alignItems={"center"}>
                     <Link href={"/"} mx={2}>Play</Link>
                     <Link href={"/shop"} mx={2}>Shop</Link>
-                    <Link href={"/shop"} mx={2}>Farmers Market</Link>
+                    <Link href={"https://astonishing-piroshki-210878.netlify.app/"} mx={2}>Farmers Market</Link>
                 </Flex>
                 <ConnectWallet/>
             </Flex>
